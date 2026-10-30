@@ -5,4 +5,4 @@ Small things I made:
 - [cbs-extension](https://github.com/sub-hub/cbs-extension): VS Code support for RisuAI's CBS syntax
 - [ComfyUI-Zrok](https://github.com/sub-hub/ComfyUI-Zrok): share ComfyUI through zrok
 
-한국어로 말 걸어도 됩니다.
+Korean, English
